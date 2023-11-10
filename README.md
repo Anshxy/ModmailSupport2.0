@@ -1,5 +1,5 @@
 # ModmailSupport2.0
-
+![](https://dcbadge.vercel.app/api/server/mMgcG2Xr5A)
 ## Newly Improved Agma.io Discord Ticket DM Support Bot!
 
 Welcome to the revamped and improved version of the Agma.io Discord Modmail Support bot. The Official Agma.io Discord Modmail Support bot, used to help over 49,000 members on the Agma.io Discord With game or discord related issues. 
